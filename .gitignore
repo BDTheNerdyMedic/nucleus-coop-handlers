@@ -130,3 +130,6 @@ dist
 .pnp.*
 
 .DS_Store
+
+scripts/test-handler.config.json
+scripts/last-handler.json

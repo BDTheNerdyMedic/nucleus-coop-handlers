@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Test Handler",
+            "type": "shell",
+            "command": "node scripts/test-handler.js",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "detail": "Run the handler test script to close Nucleus Co-op, copy a handler, and launch Nucleus Co-op."
+        }
+    ]
+}
