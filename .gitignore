@@ -133,3 +133,5 @@ dist
 
 scripts/test-handler.config.json
 scripts/last-handler.json
+scripts/generate-handler.config.json
+handlers/*/*.json
